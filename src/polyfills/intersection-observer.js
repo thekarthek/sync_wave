@@ -1,6 +1,6 @@
 /* eslint-disable */
 /**
- * Copyright 2016 Google Inc. All Rights Reserved.
+ * Copyright 2026 Google Inc. All Rights Reserved.
  *
  * Licensed under the W3C SOFTWARE AND DOCUMENT NOTICE AND LICENSE.
  *
