@@ -24,11 +24,11 @@ const IntroRouteEnd = () => {
 
         <LimitedParagraph>
           Let me know what you think{' '}
-          <Link external to="https://twitter.com/JoshWComeau">
+          <Link external to="https://x.com/thekarthek?s=21">
             on Twitter
           </Link>{' '}
           or{' '}
-          <Link external to="mailto:joshwcomeau@gmail.com">
+          <Link external to="mailto:thekarthek@gmail.com">
             by email
           </Link>. I'm especially keen to hear if you have suggestions for other
           audio concepts you'd like explained this way!
@@ -36,7 +36,7 @@ const IntroRouteEnd = () => {
 
         <LimitedParagraph>
           This project was created with React.{' '}
-          <Link external to="https://github.com/joshwcomeau/waveforms">
+          <Link external to="https://github.com/thekarthek/waveforms">
             View the source
           </Link>.
         </LimitedParagraph>

@@ -6,7 +6,7 @@ This interactive guide introduces and explores waveforms. It covers how to read 
 
 This guide is aimed at a general audience–no prior knowledge is required.
 
-[**Check it out!**](https://syncwaveform.netlify.app/waveforms-intro)
+[**Check it out!**]
 
 ---
 
